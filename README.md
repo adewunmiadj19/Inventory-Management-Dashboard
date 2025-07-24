@@ -33,6 +33,8 @@ This project focuses on building an interactive Excel dashboard to track and mon
 
 •	Pivot chart
 
+•	Slicers
+
 ## Data Cleaning 
 
 Before building the dashboard, the dataset underwent the following data preparation steps:
@@ -49,13 +51,15 @@ Before building the dashboard, the dataset underwent the following data preparat
 
 ## Key Insights
 
-•	Top Revenue-Generating Products include Monitor 24 inch,  Wireless Mouse, and Camera Zoom
+•	Top Revenue-Generating Products is Monitor 24 inch
 
 •	The West region appears to be among the most active in terms of transactions.
 
 •	Retail customers contributed slightly more revenue than wholesalers, indicating strong B2C sales performance.
 
 •	Wireless Mouse, Bluetooth speaker, and smartwatch Y has a high return rate, signaling possible product quality issues.
+
+•  Discounted prices translated to higher sales return mostly on products like Monitor 24inch, Bluetooth speaker, and Wireless Mouse
 
 •	Restocks closely follow top-selling items, confirming alignment between demand and supply.
 
@@ -70,6 +74,8 @@ Before building the dashboard, the dataset underwent the following data preparat
 •	Increase inventory for high-performing products  to meet demand.
 
 •	Use regional insights to plan location-specific marketing strategies.
+
+• More discount should be encouraged
 
 •	Continue monitoring trends monthly to detect early shifts in customer demand.
 
